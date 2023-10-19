@@ -21,7 +21,7 @@ MY objectives are derived from the areas in the hotel industry that need improve
 •	We therefore welcome both good and bad reviews since it would help us to improve on our short falls.
 The sketch below gives an insight to how the website would be structured. The website would be built purely with HTML which would help our structural formation and the CSS that would help to add some styles to the structure. I also aim to make this website a responsive one to be user friendly to different types of screens, ranging from monitors to mobile devices.
 Should anybody find any left outs in this project please do not hesitate to notify me for immediate rectification. 
-Please see the wireframe below to see how the website would be structure.
+Please see the wireframe below to see how the website would be structured.
 
 
 ![fm02](https://github.com/fmk-McOpare/milestone-1/assets/147521192/2a56c291-89aa-4679-8a0b-72c52c55562f)
