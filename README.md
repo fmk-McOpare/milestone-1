@@ -18,7 +18,7 @@ MY objectives are derived from the areas in the hotel industry that need improve
 •	Provision of good service to our customers with the ultimate aim of ensuring that there is no dip in our standard since its inception. We hope to achieve this by using our modernised Hotel Management System.
 •	Provision of a modernised website that present a vivid picture of the facilities in the Guest House that reflex the true facilities within the it. This would be supported with rooms setup, pictures and the entire landscape pictures of the Guest House.
 •	Provision of platform for customer reviews and the willingness to attend to those reviews that calls for immediate fix that would help us maintain our standard.
-•	We therefore welcome both good and bad reviews since it would help us to improve on our short falls.
+•	We therefore welcome both positive and negative reviews since it would help us to improve on our short falls.
 The sketch below gives an insight to how the website would be structured. The website would be built purely with HTML which would help our structural formation and the CSS that would help to add some styles to the structure. I also aim to make this website a responsive one to be user friendly to different types of screens, ranging from monitors to mobile devices.
 Should anybody find any left outs in this project please do not hesitate to notify me for immediate rectification. 
 Please see the wireframe below to see how the website would be structured.
