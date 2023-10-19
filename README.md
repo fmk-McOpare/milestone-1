@@ -3,7 +3,7 @@
   # CRYSTAL GUEST HOUSE
 This Air B&B website is built with HTML and CSS within the confines of my knowledge in the web development industry. It is designed to give our valued visitors /users who will use this Guest House the optimum services befitting that of five-star hotel. It worth stating that this is not a 5-star hotel but rather it is Guest House that aims to provide a 5 star-like services to the customers. The Guest House has only 7 rooms with a small compound but the superfluous inner luxury makes up for its restricted external compound.
  
- # INTRODUCTION
+ ## INTRODUCTION
 The driving force behind why I chose to design a GUEST HOUSE as my first website is that, over the years I have realised that smaller hotels lack certain qualities such as:
 •	Inability to maintain the initial standard set by the hotels in its inception
 •	Lack of proper security apparatus that gives the users their piece of mind during their stay in the hotel.
@@ -11,7 +11,7 @@ The driving force behind why I chose to design a GUEST HOUSE as my first website
 •	Lack of proper hotel management system in place for the smaller hotels.
 •	Lack of proper platform for customer reviews 
 
-# OBJECTIVES
+## OBJECTIVES
 MY objectives are derived from the areas in the hotel industry that need improvement especially the small hotels in the system that lack maintenance
 
  culture and a touch of modernisation. CRYSTAL GUEST HOUSE would be built with a modernized features and an eye to improve on certain setbacks of small hotels in the systems by providing and improving on the following areas:
