@@ -23,4 +23,6 @@ Should anybody find any left outs in this project please do not hesitate to noti
 Please see the wireframe below to see how the website would be structure.
 
 
+![fm02](https://github.com/fmk-McOpare/milestone-1/assets/147521192/2a56c291-89aa-4679-8a0b-72c52c55562f)
+
 
