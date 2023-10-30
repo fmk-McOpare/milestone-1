@@ -1,0 +1,354 @@
+Document checking completed. No errors or warnings to show.
+Source
+1. <!DOCTYPE html>?
+2. <html lang="en">?
+3. ?
+4. <head>?
+5. <title>Crystal Guest House</title>?
+6. ?
+7. <!-- for-mobile-apps -->?
+8. <meta charset="UTF-8">?
+9. <meta http-equiv="X-UA-Compatible" content="IE=edge">?
+10. <meta name="viewport" content="width=device-width, initial-scale=1.0">?
+11. <meta name="keywords" content="Resort Inn Responsive , Smartphone Compatible web template , Samsung, LG, Sony Ericsson, Motorola web design">?
+12. ?
+13. <!-- //links -->?
+14. <link href="assets/css/bootstrap.css" rel="stylesheet" type="text/css" media="all">?
+15. <link href="assets/css/font-awesome.css" rel="stylesheet"> ?
+16. <link href="assets/css/style.css" rel="stylesheet" type="text/css" media="all" >?
+17. ?
+18. ?
+19. ?
+20. </head>?
+21. ?
+22. <body>?
+23. <!-- header -->?
+24. ?
+25. <header> ?
+26. <!-- top - navigation -->?
+27. ?
+28. <div class="crystal_navigation">?
+29. <div class="container">?
+30. <nav class="navbar navbar-default">?
+31. <div class="navbar-header navbar-left">?
+32. <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">?
+33. <span class="sr-only">Toggle navigation</span>?
+34. <span class="icon-bar"></span>?
+35. <span class="icon-bar"></span>?
+36. <span class="icon-bar"></span>?
+37. </button>?
+38. ?
+39. <div class="navbar-brand">?
+40. CRYSTAL ?
+41. <span>GUEST</span> HOUSE?
+42. <p class="logo-slogan">Your comfort our priority</p>?
+43. </div>?
+44. ?
+45. ?
+46. </div>?
+47. ?
+48. ?
+49. <!-- Collect navigation links for toggling -->?
+50. <div class="collapse navbar-collapse navbar-right" id="bs-example-navbar-collapse-1">?
+51. <nav class="menu menu--iris">?
+52. <ul class="nav navbar-nav menu__list nav_links">?
+53. <li ><a href="" class="menu__link">Home</a></li>?
+54. <li class="menu__item"><a href="#about" class="menu__link scroll">About</a></li>?
+55. <li class="menu__item"><a href="#rooms" class="menu__link scroll">Rooms</a></li>?
+56. <li class="menu__item"><a href="#contact" class="menu__link scroll">Contact Us</a></li>?
+57. </ul>?
+58. </nav>?
+59. </div>?
+60. </nav>?
+61. ?
+62. </div>?
+63. </div>?
+64. <!-- //top-navigation -->?
+65. ?
+66. <!-- //header -->?
+67. ?
+68. ?
+69. <!-- hero section -->?
+70. <section> ?
+71. <div id="home" class="cr3-banner">?
+72. <!-- hero-text -->?
+73. <div class="slider">?
+74. <div class="callbacks_container">?
+75. <ul class="rslides callbacks callbacks1" id="slider4">?
+76. <li>?
+77. <div class="cryst-banner-top">?
+78. ?
+79. </div>?
+80. </li>?
+81. </ul>?
+82. </div>?
+83. <div class="clearfix"> </div>?
+84. <!--banne Slider starts Here-->?
+85. </div>?
+86. ?
+87. </div> ?
+88. ?
+89. <!-- //banner --> ?
+90. ?
+91. <!--//Header -->?
+92. ?
+93. ?
+94. <div id="herotext">?
+95. <div class="col-md-12 hero-text">?
+96. <a href="#rooms"><h2>Experience the best Hospitality as our Guest</h2></a>?
+97. ?
+98. </div>?
+99. ?
+100. <div class="clearfix"> </div>?
+101. </div>?
+102. </section>?
+103. ?
+104. </header>?
+105. ?
+106. ?
+107. <!-- /about -->?
+108. <section>?
+109. <div class="about-crystal" id="about">?
+110. <div class="container">?
+111. <div class="">?
+112. <h3 class="title-crystals">About Us</h3> ?
+113. <p class="about-crystal-parag">Crystal Guest House is in close proximity to Wembley Stadium and Wembley Arena, both just a few minutes’ walk from the Guest House. Each of the 210 modern guest rooms have wireless internet and satellite TV. The hotel has excellent local transport connections into central London. Our esteemed guests are welcome to relax and unwind in a quiet and elegant setting and enjoy a genuine experience of leisure, pleasure, gastronomy and wellness within our premise. We make you feel at home.?
+114. </p>?
+115. ?
+116. <video id="about_video" width="1140" height="240" controls>?
+117. <source src="assets/video/about.mp4" type="video/mp4">?
+118. <source src="assets/video/about.mp4" type="video/ogg">?
+119. Your browser does not support the video tag.?
+120. </video>?
+121. <img src="assets/images/about-main.jpg" class="img-responsive" alt="about">?
+122. </div>?
+123. ?
+124. ?
+125. ?
+126. ?
+127. <div class="clearfix"> </div>?
+128. </div>?
+129. </div>?
+130. </section>?
+131. <!-- //about -->?
+132. ?
+133. ?
+134. <!--sevices-->?
+135. <section class="services"> ?
+136. <div >?
+137. <div class="container">?
+138. <div class="services-main">?
+139. <h3 class="title-crystals">Our Services</h3>?
+140. <div class="services-bottom">?
+141. <div class="col-md-6 services-grid left-crystal-service">?
+142. <div class="service-block ">?
+143. <i class="fa fa-credit-card" aria-hidden="true"></i>?
+144. <h4>Stay First, Pay After! </h4>?
+145. <p>We serve you first before you pay for the valuable service we give to you. .</p>?
+146. <p><i class="fa fa-check" aria-hidden="true"></i>Decorated room, proper air conditioned</p>?
+147. <p><i class="fa fa-check" aria-hidden="true"></i>Private balcony</p>?
+148. ?
+149. </div>?
+150. </div>?
+151. <div class="col-md-6 services-grid right-crystal-service">?
+152. <div class="service-block">?
+153. <i class="fa fa-clock-o" aria-hidden="true"></i>?
+154. <h4>24 Hour Restaurant</h4>?
+155. <p>We always serve you with both continental and local delicacy. Your health is your wealth. </p>?
+156. <p><i class="fa fa-check" aria-hidden="true"></i>24 hours room service</p>?
+157. <p><i class="fa fa-check" aria-hidden="true"></i>24-hour food service</p>?
+158. </div>?
+159. </div>?
+160. <div class="clearfix"> </div>?
+161. </div>?
+162. </div>?
+163. </div>?
+164. </div>?
+165. </section>?
+166. <!--//sevices-->?
+167. ?
+168. ?
+169. <!-- rooms & rates -->?
+170. <section class="rooms-section" id="rooms"> ?
+171. <div >?
+172. <div class="container">?
+173. <h3 class="title-crystals rooms-title-heading">Rooms And Rates</h3>?
+174. <div class="room-cards-wrapper">?
+175. <div class="col-md-3 room-grid">?
+176. <div class="room-block room-transform">?
+177. <div class="room-grid-top">?
+178. <img src="assets/images/deluxe.jpg" alt=" " class="img-responsive">?
+179. <h4>Deluxe Room <br> 20 x 10</h4>?
+180. </div>?
+181. <div class="room-grid-bottom">?
+182. <div class="room-rating">?
+183. <ul>?
+184. ?
+185. <li><i class="fa fa-star" aria-hidden="true"></i></li>?
+186. <li><i class="fa fa-star" aria-hidden="true"></i></li>?
+187. <li><i class="fa fa-star" aria-hidden="true"></i></li>?
+188. <li><i class="fa fa-star" aria-hidden="true"></i></li>?
+189. <li><i class="fa fa-star-o" aria-hidden="true"></i></li>?
+190. ?
+191. ?
+192. </ul>?
+193. </div>?
+194. <div class="price-selection"> ?
+195. <h3><span>£</span>320</h3> ?
+196. <a href="#" >Book Now</a>?
+197. </div>?
+198. </div>?
+199. </div>?
+200. </div>?
+201. <div class="col-md-3 room-grid ">?
+202. <div class="room-block room-transform">?
+203. <div class="room-grid-top">?
+204. <img src="assets/images/luxury.jpg" alt=" " class="img-responsive">?
+205. <h4>Luxury Room <br> 40 x 20</h4>?
+206. </div>?
+207. <div class="room-grid-bottom">?
+208. <div class="room-rating">?
+209. <ul>?
+210. <li><i class="fa fa-star" aria-hidden="true"></i></li>?
+211. <li><i class="fa fa-star" aria-hidden="true"></i></li>?
+212. <li><i class="fa fa-star" aria-hidden="true"></i></li>?
+213. <li><i class="fa fa-star" aria-hidden="true"></i></li>?
+214. <li><i class="fa fa-star-o" aria-hidden="true"></i></li>?
+215. </ul>?
+216. </div>?
+217. <div class="price-selection">?
+218. <h3><span>£</span>220</h3>?
+219. <a href="#" >Book Now</a>?
+220. </div>?
+221. </div>?
+222. </div>?
+223. </div>?
+224. <div class="col-md-3 room-grid">?
+225. <div class="room-block room-transform">?
+226. <div class="room-grid-top">?
+227. <img src="assets/images/guest.jpg" alt=" " class="img-responsive" >?
+228. <h4>Executive Room <br> 50 x 30</h4>?
+229. </div>?
+230. <div class="room-grid-bottom">?
+231. <div class="room-rating">?
+232. <ul>?
+233. <li><i class="fa fa-star" aria-hidden="true"></i></li>?
+234. <li><i class="fa fa-star" aria-hidden="true"></i></li>?
+235. <li><i class="fa fa-star" aria-hidden="true"></i></li>?
+236. <li><i class="fa fa-star-o" aria-hidden="true"></i></li>?
+237. <li><i class="fa fa-star-o" aria-hidden="true"></i></li>?
+238. </ul>?
+239. </div>?
+240. <div class="price-selection">?
+241. <h3><span>£</span>180</h3>?
+242. <a href="#" >Book Now</a>?
+243. </div>?
+244. </div>?
+245. </div>?
+246. </div>?
+247. <div class="col-md-3 room-grid">?
+248. <div class="room-block room-transform">?
+249. <div class="room-grid-top ">?
+250. <img src="assets/images/single.jpg" alt=" " class="img-responsive" >?
+251. <h4>Single Room <br> 25 x 25</h4>?
+252. </div>?
+253. <div class="room-grid-bottom">?
+254. <div class="room-rating">?
+255. <ul>?
+256. <li><i class="fa fa-star" aria-hidden="true"></i></li>?
+257. <li><i class="fa fa-star" aria-hidden="true"></i></li>?
+258. <li><i class="fa fa-star-o" aria-hidden="true"></i></li>?
+259. <li><i class="fa fa-star-o" aria-hidden="true"></i></li>?
+260. <li><i class="fa fa-star-o" aria-hidden="true"></i></li>?
+261. </ul>?
+262. </div>?
+263. <div class="price-selection">?
+264. <h3><span>£</span>150</h3>?
+265. <a href="#" >Book Now</a>?
+266. </div>?
+267. </div>?
+268. </div>?
+269. </div>?
+270. <div class="clearfix"> </div>?
+271. </div>?
+272. </div>?
+273. </div>?
+274. </section>?
+275. <!--// rooms & rates -->?
+276. ?
+277. ?
+278. ?
+279. <footer> ?
+280. ?
+281. <!-- contact -->?
+282. <section class="contact-crystal" id="contact">?
+283. <div class="container">?
+284. <div class="col-lg-6 col-md-6 col-sm-6 contact-us-block">?
+285. <div class="contact-us-area">?
+286. <h4>Contact Us</h4>?
+287. <form method="post" name="sentMessage" id="contactForm" >?
+288. ?
+289. <div class="control-group form-group">?
+290. ?
+291. <label class="contact-p1"><strong>Full Name:</strong> </label>?
+292. <input type="text" class="form-control" name="name" id="name" required >?
+293. <p class="help-block"></p>?
+294. ?
+295. </div> ?
+296. <div class="control-group form-group">?
+297. ?
+298. <label class="contact-p1"> <strong>Phone Number:</strong> </label>?
+299. <input type="tel" class="form-control" name="phone" id="phone" required >?
+300. <p class="help-block"></p>?
+301. ?
+302. </div>?
+303. <div class="control-group form-group">?
+304. ?
+305. <label class="contact-p1"><strong>Email Address:</strong> </label>?
+306. <input type="email" class="form-control" name="email" id="email" required > ?
+307. </div>?
+308. ?
+309. ?
+310. <input type="submit" name="sub" value="Submit" class="btn btn-primary"> ?
+311. </form>?
+312. ?
+313. </div>?
+314. </div>?
+315. ?
+316. <!-- connect with us -->?
+317. <div class="col-lg-6 col-md-6 col-sm-6 connect-us-block">?
+318. <h4>Connect with us now</h4>?
+319. <p class="contact-us-label"><strong>Phone :</strong>+44 1245 895769</p>?
+320. <p class="contact-us-label"><strong>Email :</strong> <a href="mailto:crystal@crystal.com">crystalguest@crystal.com</a></p>?
+321. <p class="contact-us-label"><strong>Address :</strong> Manchester, United Kingdom</p>?
+322. ?
+323. <div class="col-lg-6 col-md-6 col-sm-6 social-media-icons footer-icons">?
+324. <ul class="social-media-fa ">?
+325. ?
+326. <li><a href="https://twitter.com/" target="_blank" class="fa fa-twitter icon-border twitter"> </a></li>?
+327. <li><a href="https://www.instagram.com/" target="_blank" class="fa fa-instagram icon-border instagram"> </a></li> ?
+328. <li><a href="https://www.facebook.com/" target="_blank" class="fa fa-facebook icon-border facebook" > </a></li>?
+329. <li><a href="https://www.youtube.com/" target="_blank" class="fa fa-play icon-border youtube" > </a></li>?
+330. ?
+331. </ul>?
+332. </div>?
+333. </div>?
+334. <!-- /connect with us -->?
+335. <div class="clearfix"></div>?
+336. </div>?
+337. </section>?
+338. <!-- /contact -->?
+339. <div class="copyright-info">?
+340. <p>© 2023 Crystal Guest House . All Rights Reserved | Designed by <a href="#">Crystal House</a> </p>?
+341. </div>?
+342. </footer>?
+343. <!--/footer -->?
+344. ?
+345. ?
+346. </body>?
+347. </html>
+Used the HTML parser.
+Total execution time 24 milliseconds.
+
+About this checker • Report an issue • Version: 23.8.18
+
